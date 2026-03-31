@@ -27,7 +27,7 @@ for i in languages:
 '''
 
 '''
-掷骰子
+掷骰子 
 '''
 import random
 
